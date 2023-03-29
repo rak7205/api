@@ -1,44 +1,62 @@
 [
     {
+      "id":"thapaserialnob",
       "name": "iphone",
-      "price": 154,
-      "featured": true,
-      "company": "apple"
+      "company": "apple",
+      "price": 142424,
+      "description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category":"mobile",
+      "featured": true
+     
     },
     {
+      "id":"thapaserialn02",
       "name": "iphone10",
-      "price": 1154,
-      "featured": true,
-      "company": "apple"
+      "company": "apple",
+      "price": 154232,
+      "description":"The mobile is compact with its 7.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category":"mobile",
+      "featured": true
     },
     {
-      "name": "watch",
-      "price": 204,
-      "company": "apple"
-    },
-    {
+      "id":"thapaserialn03",
       "name": "watch10",
-      "price": 304,
-      "company": "apple"
+      "company": "apple",
+      "price": 10054,
+      "description":"The watch is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category":"watch",
+      "featured": true
     },
     {
+      "id":"thapaserialn04",
       "name": "s20",
-      "price": 404,
-      "company": "samsung"
+      "company": "samsung",
+      "price": 666054,
+      "description":"The tv is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category":"tv",
+      "featured": true
     },
     {
-      "name": "s20",
-      "price": 505,
-      "company": "samsung"
-    },
-    {
+      "id":"thapaserialn05",
       "name": "dell gaming",
-      "price": 501,
-      "company": "dell"
+      "company": "dell",
+      "price": 866654,
+      "description":"The pc is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category":"pc",
+      "featured": false
+      
     },
     {
+      "id":"thapaserialn06",
       "name": "mi20",
-      "price": 701,
-      "company": "mi"
+      "company": "mi",
+      "price": 866654,
+      "description":"The mobile is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category":"mobile",
+      "featured": true
+     
     }
+   
+   
+    
   ]
