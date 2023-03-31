@@ -1,62 +1,59 @@
 [
-    {
-      "id":"thapaserialnob",
-      "name": "iphone",
-      "company": "apple",
-      "price": 142424,
-      "description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-      "category":"mobile",
-      "featured": true
-     
-    },
-    {
-      "id":"thapaserialn02",
-      "name": "iphone10",
-      "company": "apple",
-      "price": 154232,
-      "description":"The mobile is compact with its 7.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-      "category":"mobile",
-      "featured": true
-    },
-    {
-      "id":"thapaserialn03",
-      "name": "watch10",
-      "company": "apple",
-      "price": 10054,
-      "description":"The watch is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-      "category":"watch",
-      "featured": true
-    },
-    {
-      "id":"thapaserialn04",
-      "name": "s20",
-      "company": "samsung",
-      "price": 666054,
-      "description":"The tv is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-      "category":"tv",
-      "featured": true
-    },
-    {
-      "id":"thapaserialn05",
-      "name": "dell gaming",
-      "company": "dell",
-      "price": 866654,
-      "description":"The pc is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-      "category":"pc",
-      "featured": false
-      
-    },
-    {
-      "id":"thapaserialn06",
-      "name": "mi20",
-      "company": "mi",
-      "price": 866654,
-      "description":"The mobile is compact with its 3.2 -inch OLED screen and far lighter at 8g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-      "category":"mobile",
-      "featured": true
-     
-    }
-   
+  {
+    "id": "thapaserialnoi",
+    "name": "Iwatch",
+    "price": 39999,
+    "company": "apple",
+    "colors": [
+      "#000000"
+    ],
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "shipping": true
+  },
+  {
+    "id": "thapaserialnoj",
+    "name": "user need",
+    "company": "apple",
+    "price": 300099,
+    "colors": [
+      "#ff0000",
+      "#22D3EF",
+      "#000000"
+    ],
+    "image": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "accessories"
+  },
+  {
+    "id": "thapaserialnok",
+    "name": "rolex premium",
+    "company": "rolex",
+    "price": 999999,
+    "colors": [
+      "#000000",
+      "#CDD0D0"
+    ],
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch"
+  },
+  {
+    "id": "thapaserialnol",
+    "name": "galaxy w20",
+    "price": 311999,
+    "company": "samsung",
+    "colors": [
+      "#22D3EF",
+      "#ff0000",
+      "#000000"
+    ],
+    "image": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "featured": true
+  }
    
     
   ]
