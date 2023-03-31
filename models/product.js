@@ -20,6 +20,15 @@ const productSchema = new mongoose.Schema({
     type: Number,
     required: [true, "price must be provided"],
   },
+  colors:{
+    type:Array,
+    "default" : [],
+    required:true,
+  },
+  image:{
+    type:String,
+    require:true,
+  },
   description:{
     type:String,
     required:true,

@@ -1,7 +1,7 @@
 const Product = require("../models/product");
 
 const getAllProducts=async(req,res)=>{
-    const { id, name,company,price,description,category, featured,sort,select } = req.query;
+    const { id, name,company,price,colors,image,description,category, featured,sort,select } = req.query;
     const queryObject={};
     if(id)
     {
@@ -24,6 +24,14 @@ const getAllProducts=async(req,res)=>{
     if(company)
     {
         queryObject.company=company;
+    }
+    if(colors)
+    {
+        queryObject.colors=colors;
+    }
+    if(image)
+    {
+        queryObject.image=image;
     }
     if(featured)
     {
